@@ -1,4 +1,4 @@
-package Arrays_Hashing.Medium;
+package Week_1.Arrays.Medium;
 
 /*
     Input:
