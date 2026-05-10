@@ -1,4 +1,4 @@
-package Week_1.Arrays.Easy;
+package Week_1.Arrays_Hashing.Easy;
 
 public class FindMinimum {
     // TC: O(n), SC: O(1)

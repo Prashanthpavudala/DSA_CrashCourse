@@ -1,4 +1,4 @@
-package Week_1.Arrays.Easy;
+package Week_1.Arrays_Hashing.Easy;
 
 import java.util.Arrays;
 
