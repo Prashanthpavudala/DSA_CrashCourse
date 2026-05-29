@@ -1,4 +1,4 @@
-package Week_1.Arrays_Hashing.Medium;
+package Week_1.Arrays.Medium;
 
 import java.util.Arrays;
 

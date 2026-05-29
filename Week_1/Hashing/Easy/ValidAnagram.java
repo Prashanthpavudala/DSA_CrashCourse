@@ -1,4 +1,4 @@
-package Week_1.Arrays_Hashing.Easy;
+package Week_1.Hashing.Easy;
 
 import java.util.Arrays;
 import java.util.HashMap;
